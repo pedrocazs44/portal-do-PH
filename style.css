@@ -1,0 +1,166 @@
+body {
+margin: 0;
+text-align: center;
+
+}
+.profile {
+border-radius: 50%;
+
+}
+
+#inicio {
+    bottom: 100%;
+background: linear-gradient(rgb(6, 194, 241) 0%, rgb(97, 20, 160) 100%);
+}
+
+h1{
+  font-size: 40px;
+  font-family:'Press Star 2P' , cursive;
+  font-weight: 300;
+  
+}
+
+#name_1 {
+       font-size: 50px;
+       font-family: 'Press Start 2P', cursive;
+}
+
+#name_2 {
+    font-size: 50px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+h2 {
+  font-size: 40%;
+  font-weight: 300;
+  font-family: 'Press Start 2P', cursivel;
+
+}
+
+#sobre {
+  font-family: 'Press Start 2P', cursive;
+
+}
+
+.line {
+  height: 6px;
+  background-color: rgb(221, 15, 15);
+  width: 70px;
+  margin: 8px auto;
+
+}
+.parallax-inner {
+  display: table-cell;
+  vertical-align: middle;
+
+}
+
+.myNavbar {
+  position: sticky;
+  top: 0;
+  z-index: 9;
+
+}
+
+
+.links {
+  display: inline;
+  padding-left: 33px;
+  padding-right: 25px;
+  font-family: 'Press Start 2P';
+  font-size: 20px ;
+
+}
+
+.line {
+  height: 6px;
+  background-color: rgb(118, 38, 194);
+  width: 70px;
+  margin: 8px auto;
+
+}
+
+.parallax-inner {
+  display: table-cell;
+  vertical-align: middle;
+
+}
+
+.myNavbar {
+  position: sticky;
+  top: 0;
+  z-index: 9;
+
+}
+
+.links {
+  display: inline;
+  padding-left: 33px;
+  padding-right: 25px;
+  font-family: 'Press Start 2P', cursive;
+
+}
+
+.links:hover {
+  font-size: 30px;
+
+}
+
+#contatos {
+  background: aqua;
+
+}
+
+#contatos iframe {
+  width: 10px;
+
+
+}
+
+.contatos_1 h3 {
+  display: inline;
+  padding-bottom: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+   
+
+
